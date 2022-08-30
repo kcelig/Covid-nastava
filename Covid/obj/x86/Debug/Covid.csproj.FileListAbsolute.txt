@@ -1,0 +1,8 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\Covid\bin\Debug\Covid.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Covid\bin\Debug\Covid.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\Covid\obj\x86\Debug\Covid.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Covid\obj\x86\Debug\Covid.pdb
+C:\Users\HAL\Desktop\Covid\Covid\obj\x86\Debug\Covid.exe
+C:\Users\HAL\Desktop\Covid\Covid\obj\x86\Debug\Covid.pdb
+C:\Users\HAL\Desktop\Covid\Covid\bin\Debug\Covid.exe
+C:\Users\HAL\Desktop\Covid\Covid\bin\Debug\Covid.pdb
